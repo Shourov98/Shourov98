@@ -12,8 +12,8 @@
 
 <br />
 
-<img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=Profile%20Views&color=06b6d4&style=for-the-badge" alt="Profile Views" />
-<img src="https://img.shields.io/github/followers/YOUR_GITHUB_USERNAME?label=Followers&style=for-the-badge&color=7c3aed" alt="GitHub Followers" />
+<img src="https://komarev.com/ghpvc/?username=Shourov98&label=Profile%20Views&color=06b6d4&style=for-the-badge" alt="Profile Views" />
+<img src="https://img.shields.io/github/followers/Shourov98?label=Followers&style=for-the-badge&color=7c3aed" alt="GitHub Followers" />
 <img src="https://img.shields.io/badge/Focus-Full%20Stack%20%2B%20AI-22d3ee?style=for-the-badge" alt="Focus" />
 
 </div>
