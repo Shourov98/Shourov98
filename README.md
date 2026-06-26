@@ -304,7 +304,7 @@ Digital wallet platform inspired by bKash and Nagad with secure authentication a
 
 <div align="center">
 
-![snake gif](https://github.com/YOUR_GITHUB_USERNAME/YOUR_GITHUB_USERNAME/blob/output/github-contribution-grid-snake-dark.svg)
+![snake gif](https://github.com/Shourov98/Shourov98/blob/output/github-contribution-grid-snake-dark.svg)
 
 </div>
 
